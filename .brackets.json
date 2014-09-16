@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/Jstaud/myApp/platforms/ios/www/lib/ionic/js/ionic.bundle.js",
+        "/Users/Jstaud/myApp/platforms/ios/www/lib/ionic/js/ionic.min.js",
+        "/Users/Jstaud/myApp/www/js/app.js",
+        "/Users/Jstaud/myApp/www/js/controllers.js"
+    ]
+}
